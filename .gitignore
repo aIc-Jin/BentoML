@@ -166,3 +166,5 @@ mlruns/
 # pdm
 .pdm-python
 .pdm-build/
+
+.history/
